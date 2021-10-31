@@ -11,8 +11,8 @@ For setting this project in your system, follow the steps:
 3. Install the required dependencies - ```npm install```
 4. After, the dependencies are successfully installed, open the local server - ```npm start```
 
-*This app will be running on http://localhost:3000/ by default.*
+**This app will be running on http://localhost:3000/ by default.**
 
-#### UI Inspired by Gmail's UI
+#### UI Inspired by Gmail's UI 😄
 
-*Hope you like it* 😋
+**Hope you like it** 😋
